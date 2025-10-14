@@ -1,12 +1,18 @@
-# 👋 Hello, I'm Nour Sherif Ali
 
-<h3 align="center">🚀 Full Stack Developer | Front-end Developer Angular Specialist | Back-end Developer Dot Net</h3>
+
+<div align="center">
+  
+![Header Gradient](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4834d4,100:686de0&height=200&section=header&text=Nour%20Sherif%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50)
+
+</div>
+
+<h3 align="center">🚀 Full Stack Developer | Angular Specialist | .NET Craftsman</h3>
 
 <div align="center">
 
 ![Digital Craftsman](https://img.shields.io/badge/💻_Digital_Craftsman-Full_Stack-blueviolet?style=for-the-badge)
 ![Solution Architect](https://img.shields.io/badge/🚀_Solution_Architect-Innovative-green?style=for-the-badge)
-![Hireable](https://img.shields.io/badge/Available%20for%20Work-Yes-success)
+![Hireable](https://img.shields.io/badge/🎯_Available_for_Work-Let's_Build-success?style=for-the-badge)
 
 </div>
 
@@ -26,26 +32,41 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 ## 🛠 Tech Stack
 
 ### Frontend Mastery
+<div align="center">
+  
+**Angular Expert | TypeScript Specialist | UI/UX Craftsman**
+  
+</div>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap,tailwind,js,sass" />
 </div>
 
 ### Backend Excellence
+<div align="center">
+  
+**.NET Core Developer | API Architect | Backend Engineer**
+  
+</div>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,postman,nodejs" />
 </div>
 
 ### Database & Tools
+<div align="center">
+  
+**Database Management  | Development Tools**
+  
+</div>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=sqlserver,git,github,firebase,vscode,visualstudio,docker" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,git,github,firebase,vscode,visualstudio" />
 </div>
 
 ### API Development
 <div align="center">
   
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
-![REST APIs](https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/📚_API_Documentation-Swagger_Professional-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![REST APIs](https://img.shields.io/badge/🔗_RESTful_APIs-Enterprise_Ready-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/🗄️_Data_Access-Entity_Framework_Expert-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
@@ -119,10 +140,10 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-noursherif619@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noursherif619@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nour_Sherif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-sherif-nsa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nu-one-hd7bt879xq.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Nour--Sherif--Ali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nour-Sherif-Ali)
+[![Email](https://img.shields.io/badge/📧_Email-noursherif619@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noursherif619@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-sherif-nsa)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_My_Work-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nu-one-hd7bt879xq.vercel.app)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nour-Sherif-Ali)
 
 </div>
 
@@ -132,6 +153,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ### ⚡ **Ready to bring innovation and excellence to your next project!** ⚡
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer Gradient](https://capsule-render.vercel.app/api?type=waving&color=0:686de0,50:4834d4,100:ff6b6b&height=100&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
 </div>
+
