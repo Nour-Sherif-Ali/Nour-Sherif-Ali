@@ -151,17 +151,6 @@ Frontend (HTML, CSS, JS, Angular, TypeScript) · Backend (C#, ASP.NET Core, Secu
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nour-Sherif-Ali&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a0a0c0&icon_color=0f3460&text_color=e0e0e0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-Sherif-Ali&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a0a0c0&text_color=e0e0e0)
-
-</div>
-
----
 
 <div align="center">
 
