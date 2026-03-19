@@ -1,149 +1,163 @@
-
-
 <div align="center">
-  
-![Header Gradient](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4834d4,100:686de0&height=200&section=header&text=Nour%20Sherif%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=50)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Nour%20Sherif%20Ali&fontSize=52&fontColor=e0e0e0&animation=fadeIn&fontAlign=50&desc=Full%20Stack%20Developer%20·%20ERP%20Systems%20·%20GraphQL%20APIs&descSize=18&descColor=a0a0c0&descAlign=50)
 
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | Angular Specialist | .NET Craftsman</h3>
-
 <div align="center">
 
-![Digital Craftsman](https://img.shields.io/badge/💻_Digital_Craftsman-Full_Stack-blueviolet?style=for-the-badge)
-![Solution Architect](https://img.shields.io/badge/🚀_Solution_Architect-Innovative-green?style=for-the-badge)
-![Hireable](https://img.shields.io/badge/🎯_Available_for_Work-Let's_Build-success?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-sherif-nsa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-nu-one-hd7bt879xq.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:noursherif619@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nour-Sherif-Ali)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## About Me
 
-I'm a passionate **Full Stack Developer** with expertise in modern web technologies, specializing in **Angular** and **.NET Core**. I create robust, scalable applications with clean code and exceptional user experiences.
+I'm a full-stack developer building a **medical ERP/CRM platform**, designing GraphQL APIs for complex medical workflows, refactoring legacy backend modules, and improving frontend UX with React and TypeScript.
 
-- 🎓 **Computer Science Graduate** from Modern University for Technology & Information
-- 💡 **Full Stack Certified** from Route Academy
-- 🚀 **Open to new opportunities** and ready to contribute to impactful projects
-- 🔭 **Currently exploring:** Advanced API development and microservices architecture
+I also teach SQL and programming to university students — which has sharpened my ability to think clearly about systems and communicate technical decisions precisely.
 
----
-
-## 🛠 Tech Stack
-
-### Frontend Mastery
-<div align="center">
-  
-**Angular Expert | TypeScript Specialist | UI/UX Craftsman**
-  
-</div>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,bootstrap,tailwind,js,sass" />
-</div>
-
-### Backend Excellence
-<div align="center">
-  
-**.NET Core Developer | API Architect | Backend Engineer**
-  
-</div>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postman,nodejs" />
-</div>
-
-### Database & Tools
-<div align="center">
-  
-**Database Management  | Development Tools**
-  
-</div>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=sqlserver,git,github,firebase,vscode,visualstudio" />
-</div>
-
-### API Development
-<div align="center">
-  
-![Swagger](https://img.shields.io/badge/📚_API_Documentation-Swagger_Professional-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![REST APIs](https://img.shields.io/badge/🔗_RESTful_APIs-Enterprise_Ready-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/🗄️_Data_Access-Entity_Framework_Expert-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-</div>
+Currently exploring **Odoo module development** as my next area of focus: learning the Python ORM, module architecture, and business logic patterns that power real-world ERP systems.
 
 ---
 
-## 💼 Professional Journey
+## What I'm Working On
 
-### 🎯 Front-End Developer Intern
-**Elevvo Pathway** | *Jul 2025 – Aug 2025*
-- Developed responsive Angular components with TypeScript
-- Enhanced UI/UX design and implemented reusable modules
-- Collaborated in Agile development environment
+**Medical ERP/CRM Platform** *(Jan 2026 – Present)*
+Building production backend services using Node.js, Express.js, GraphQL, Prisma ORM, and MySQL. Responsible for API design, legacy module refactoring, and React/TypeScript frontend features in a remote team environment.
 
-### 🔗 Data Integration & API Intern  
-**BVS** | *Mar 2024 – May 2024*
-- Validated and optimized REST APIs using Postman
-- Integrated SQL Server with Entity Framework
-- Developed backend data pipelines
-
-### 🤖 NLP & AI Intern
-**NajahNow** | *Jan 2024 – Apr 2024*
-- Built healthcare chatbot using NLP technologies
-- Integrated AI services with backend APIs
-- Implemented natural language processing features
+**Odoo Module Development** *(In progress)*
+Building a custom Odoo module in Python to learn the framework's ORM, inheritance model, and ERP business logic patterns — with the goal of contributing to real Odoo projects.
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🛍️ E-Commerce Platform
-**Angular | TypeScript | REST APIs | Swagger**
-- Full-featured online store with authentication system
-- Product catalog, shopping cart, and order management
-- **API Documentation:** Integrated Swagger for clear API documentation
-- Responsive design with reusable components
+### Current Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### ☀️ Weather Application  
-**Angular | REST API | TypeScript**
-- Real-time weather data from external APIs
-- Clean, intuitive interface with responsive design
-- **API Integration:** Well-documented endpoints
+### Also Experienced With
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### 🎯 Trivia Game
-**HTML | CSS | JavaScript**
-- Interactive quiz with multiple categories
-- Score tracking and instant feedback system
-- Engaging user experience
+### Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🚗 Car Rental System
+**C# · ASP.NET Core · SQL Server · JWT · Stripe**
+
+A production-grade car rental platform with a fully documented REST API, role-based access control, real-time booking status management, and Stripe payment integration.
+
+- JWT authentication with refresh token rotation
+- Role-based access: Admin, Staff, Customer
+- Booking lifecycle: Pending → Confirmed → Active → Returned
+- Stripe payment processing with webhook handling
+- Optimized SQL Server queries with Entity Framework Core
+
+[View Repository →](https://github.com/Nour-Sherif-Ali/Car-Rental-System)
+
+---
+
+### 🛒 E-Commerce API
+**ASP.NET Web API · C# · SQL Server · Entity Framework**
+
+A fully functional backend e-commerce API with layered architecture, authentication, product management, and order processing.
+
+- Clean layered architecture: Controllers → Services → Repositories
+- RESTful endpoints with Swagger documentation
+- Authentication and authorization with ASP.NET Identity
+- Database-first design with EF Core migrations
+
+[View Repository →](https://github.com/Nour-Sherif-Ali/E-CommerceG02)
+
+---
+
+### 🏢 Odoo ERP Module *(Coming Soon)*
+**Python · Odoo ORM · PostgreSQL**
+
+A custom Odoo module built to demonstrate real-world ERP module development — covering model inheritance, computed fields, business logic methods, views, and access control rules.
+
+*Repository will be pinned and linked here on completion.*
+
+---
 
 ### ✈️ Travel Planner
-**Angular | TypeScript | REST APIs**
-- Flight search and booking functionality
-- Trip organization and destination exploration
-- **Live Demo:** [Travel Planner](https://travel-planner-sooty-eta.vercel.app)
+**Angular · TypeScript · REST APIs**
+
+A full trip-planning web application with destination search, activity organization, and accommodation browsing. Live and deployed.
+
+[Live Demo →](https://travel-planner-sooty-eta.vercel.app) · [View Repository →](https://github.com/Nour-Sherif-Ali/Travel-Planner-)
 
 ---
 
+### 🛍️ E-Commerce Frontend
+**Angular · TypeScript · SCSS · REST APIs**
 
+A full-featured e-commerce storefront with authentication, product catalog, shopping cart, and order management. Modular Angular component architecture with lazy loading.
 
-## 🏆 Certifications & Education
-
-- **Bachelor of Computer Science** - Modern University of Technology and Information
-- **Full Stack Web Development** - Route Academy
-  - Frontend: HTML, CSS, JavaScript, Angular, TypeScript, SCSS
-  - Backend: C#, ASP.NET Core (MVC, Web APIs, Security, Auth)
-  - Database: SQL Server, Entity Framework Core
-  - Advanced: Docker, CI/CD, SignalR, Caching
+[View Repository →](https://github.com/Nour-Sherif-Ali/E-Commerce-Project)
 
 ---
 
-## 📬 Let's Connect
+## Professional Experience
+
+**Full Stack Developer** · Medical ERP/CRM Platform *(Jan 2026 – Present)*
+Node.js · Express.js · GraphQL · Prisma ORM · MySQL · React · TypeScript
+
+**Online Programming & Database Instructor** · University Students *(Sep 2025 – Present)*
+SQL · Relational Database Design · C++ · Java · Algorithmic Thinking
+
+**Front-End Developer Intern** · Elevvo Pathway *(Jul 2025 – Aug 2025)*
+Angular · TypeScript · Component Architecture · Received outstanding performance certificate
+
+**Data Integration & API Intern** · BVS *(Mar 2024 – May 2024)*
+REST API Testing · SQL Server · Entity Framework · Backend Data Pipelines
+
+**NLP & AI Intern** · NajahNow *(Jan 2024 – Apr 2024)*
+Healthcare Chatbot · NLP · Backend API Integration
+
+---
+
+## Education & Certifications
+
+🎓 **Bachelor of Computer Science** — Modern University for Technology & Information
+
+📜 **Full Stack Web Development** — Route Academy
+Frontend (HTML, CSS, JS, Angular, TypeScript) · Backend (C#, ASP.NET Core, Security, Auth) · Database (SQL Server, EF Core) · Advanced (Caching)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-noursherif619@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noursherif619@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nour-sherif-nsa)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_My_Work-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nu-one-hd7bt879xq.vercel.app)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nour-Sherif-Ali)
+![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nour-Sherif-Ali&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a0a0c0&icon_color=0f3460&text_color=e0e0e0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-Sherif-Ali&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a0a0c0&text_color=e0e0e0)
 
 </div>
 
@@ -151,9 +165,6 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 <div align="center">
 
-### ⚡ **Ready to bring innovation and excellence to your next project!** ⚡
-
-![Footer Gradient](https://capsule-render.vercel.app/api?type=waving&color=0:686de0,50:4834d4,100:ff6b6b&height=100&section=footer&fontSize=30&fontColor=ffffff&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&animation=fadeIn)
 
 </div>
-
